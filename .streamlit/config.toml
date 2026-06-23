@@ -1,0 +1,43 @@
+# -- Compensation Audit - Streamlit Configuration -- #
+#
+# This file controls the global theme and server settings.
+# Streamlit reads this automatically when launched from the app directory.
+#
+# Theme reference: https://docs.streamlit.io/develop/concepts/configuration/theming
+# Full config reference: https://docs.streamlit.io/develop/api-reference/configuration/config.toml
+
+[theme]
+
+# -- Primary Colors -- #
+# Accent color used for widgets (sliders, buttons, radio dots, toggles, etc.)
+primaryColor = '#E0975A'
+
+# -- Background Colors -- #
+backgroundColor = '#333333ff'
+secondaryBackgroundColor = '#4d4d4dff'
+
+# -- Text -- #
+textColor = '#ffffffff'
+
+# -- Base Theme -- #
+# 'dark' or 'light' - sets the foundation before color overrides apply
+base = 'dark'
+
+# -- Font -- #
+# Options: 'sans serif', 'serif', 'monospace'
+font = 'sans serif'
+
+
+[server]
+
+# Prevent Streamlit from opening a browser tab on launch
+headless = true
+
+# File watcher for live reload during development
+fileWatcherType = 'auto'
+
+
+[browser]
+
+# Tab title shown in the browser
+serverAddress = 'localhost'

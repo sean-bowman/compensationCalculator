@@ -1,0 +1,45 @@
+# Scraper output / training data
+documentation/training_scrape_*.xlsx
+tools/.scraperCache/
+
+# Secrets
+*.env
+.env.*
+tools/apiKeys.json
+documentation/APIKeys.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code (local settings — never publish)
+.claude/
+
+# Temp files
+*.tmp
+*.tmp.*
+tmpclaude-*
+temp/

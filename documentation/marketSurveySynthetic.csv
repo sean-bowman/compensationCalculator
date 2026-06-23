@@ -1,0 +1,34 @@
+Company,Listing,Level,Seniority,ExpReq,Estimated,Location,TeamDepartment,Discipline,PositionType,Min,Max,Vexp,Vlvl,Filter,Vmin,Vmax,Link,FilterCol,State
+Apex Dynamics,Associate Propulsion Engineer,1,Entry,0,0,Metro City,Propulsion,Propulsion,Engineer,72000,88000,0,1,-,72000,88000,https://example.com/jobs/apex-1,1,CA
+Apex Dynamics,Avionics Engineer,2,Mid,3,3,Metro City,Avionics,Avionics,Engineer,95000,118000,3,2,-,95000,118000,https://example.com/jobs/apex-2,1,CA
+Apex Dynamics,Senior Structures Engineer,3,Senior,6,6,Metro City,Structures,Structures,Engineer,118000,145000,6,3,-,118000,145000,https://example.com/jobs/apex-3,1,CA
+Apex Dynamics,Staff Software Engineer,4,Staff,9,9,Metro City,Flight Software,Software,Engineer,150000,185000,9,4,-,150000,185000,https://example.com/jobs/apex-4,1,CA
+Helios Launch,Mechanical Engineer - Ground Systems,2,Mid,2,2,Coastal City,GSE,Mechanical,Engineer,92000,112000,2,2,-,92000,112000,https://example.com/jobs/helios-1,1,WA
+Helios Launch,Senior Fluid Systems Engineer,3,Senior,7,7,Coastal City,Fluid Systems,Fluid Systems,Engineer,120000,148000,5,3,-,120000,148000,https://example.com/jobs/helios-2,1,WA
+Helios Launch,Principal Propulsion Engineer,5,Principal,14,14,Coastal City,Propulsion,Propulsion,Engineer,185000,235000,12,5,-,185000,235000,https://example.com/jobs/helios-3,1,WA
+Helios Launch,Avionics Software Engineer I,1,Entry,0,0,Coastal City,Avionics,Software,Engineer,80000,98000,0,1,-,80000,98000,https://example.com/jobs/helios-4,1,WA
+Orbital Forge,GNC Engineer,2,Mid,4,4,Mountain View,GNC,GNC,Engineer,98000,120000,3,2,-,98000,120000,https://example.com/jobs/orbital-1,1,CO
+Orbital Forge,Senior Test Engineer,3,Senior,8,8,Mountain View,Test,Test,Engineer,122000,150000,6,3,-,122000,150000,https://example.com/jobs/orbital-2,1,CO
+Orbital Forge,Staff Propulsion Engineer,4,Staff,11,11,Mountain View,Propulsion,Propulsion,Engineer,148000,182000,9,4,-,148000,182000,https://example.com/jobs/orbital-3,1,CO
+Vertex Aerospace,Associate Avionics Engineer,1,Entry,1,1,Harbor Town,Avionics,Avionics,Engineer,74000,90000,0,1,-,74000,90000,https://example.com/jobs/vertex-1,1,CA
+Vertex Aerospace,Structures Engineer,2,Mid,3,3,Harbor Town,Structures,Structures,Engineer,96000,116000,3,2,-,96000,116000,https://example.com/jobs/vertex-2,1,CA
+Vertex Aerospace,Senior Propulsion Engineer,3,Senior,7,7,Harbor Town,Propulsion,Propulsion,Engineer,124000,152000,5,3,-,124000,152000,https://example.com/jobs/vertex-3,1,CA
+Vertex Aerospace,Principal Systems Engineer,5,Principal,15,15,Harbor Town,Systems,Systems,Engineer,190000,240000,12,5,-,190000,240000,https://example.com/jobs/vertex-4,1,CA
+Stratos Systems,Software Engineer,2,Mid,3,3,Bay District,Flight Software,Software,Engineer,100000,124000,3,2,-,100000,124000,https://example.com/jobs/stratos-1,1,TX
+Stratos Systems,Senior Avionics Engineer,3,Senior,6,6,Bay District,Avionics,Avionics,Engineer,126000,154000,5,3,-,126000,154000,https://example.com/jobs/stratos-2,1,TX
+Stratos Systems,Staff Structures Engineer,4,Staff,10,10,Bay District,Structures,Structures,Engineer,152000,188000,9,4,-,152000,188000,https://example.com/jobs/stratos-3,1,TX
+Nova Propulsion,Associate Test Engineer,1,Entry,0,0,Highland Park,Test,Test,Engineer,71000,87000,0,1,-,71000,87000,https://example.com/jobs/nova-1,1,CO
+Nova Propulsion,Propulsion Engineer,2,Mid,4,4,Highland Park,Propulsion,Propulsion,Engineer,94000,114000,3,2,-,94000,114000,https://example.com/jobs/nova-2,1,CO
+Nova Propulsion,Senior Fluid Systems Engineer,3,Senior,8,8,Highland Park,Fluid Systems,Fluid Systems,Engineer,121000,149000,6,3,-,121000,149000,https://example.com/jobs/nova-3,1,CO
+Nova Propulsion,Staff Propulsion Engineer,4,Staff,12,12,Highland Park,Propulsion,Propulsion,Engineer,151000,186000,9,4,-,151000,186000,https://example.com/jobs/nova-4,1,CO
+Zenith Spacecraft,Mechanical Engineer,2,Mid,3,3,River Bend,Mechanical,Mechanical,Engineer,93000,113000,3,2,-,93000,113000,https://example.com/jobs/zenith-1,1,VA
+Zenith Spacecraft,Senior GNC Engineer,3,Senior,7,7,River Bend,GNC,GNC,Engineer,123000,151000,5,3,-,123000,151000,https://example.com/jobs/zenith-2,1,VA
+Zenith Spacecraft,Principal Avionics Engineer,5,Principal,13,13,River Bend,Avionics,Avionics,Engineer,188000,238000,12,5,-,188000,238000,https://example.com/jobs/zenith-3,1,VA
+Pinnacle Aero,Associate Structures Engineer,1,Entry,1,1,Lakeside,Structures,Structures,Engineer,73000,89000,0,1,-,73000,89000,https://example.com/jobs/pinnacle-1,1,AL
+Pinnacle Aero,Avionics Engineer,2,Mid,4,4,Lakeside,Avionics,Avionics,Engineer,97000,117000,3,2,-,97000,117000,https://example.com/jobs/pinnacle-2,1,AL
+Pinnacle Aero,Senior Software Engineer,3,Senior,8,8,Lakeside,Flight Software,Software,Engineer,125000,153000,6,3,-,125000,153000,https://example.com/jobs/pinnacle-3,1,AL
+Pinnacle Aero,Staff Test Engineer,4,Staff,11,11,Lakeside,Test,Test,Engineer,149000,184000,9,4,-,149000,184000,https://example.com/jobs/pinnacle-4,1,AL
+Comet Industries,Propulsion Engineer,2,Mid,3,3,HQ City,Propulsion,Propulsion,Engineer,91000,111000,3,2,-,91000,111000,https://example.com/jobs/comet-1,1,FL
+Comet Industries,Senior Mechanical Engineer,3,Senior,6,6,HQ City,Mechanical,Mechanical,Engineer,119000,147000,5,3,-,119000,147000,https://example.com/jobs/comet-2,1,FL
+Comet Industries,Staff Avionics Engineer,4,Staff,10,10,HQ City,Avionics,Avionics,Engineer,147000,181000,9,4,-,147000,181000,https://example.com/jobs/comet-3,1,FL
+Comet Industries,Principal Propulsion Engineer,5,Principal,16,16,HQ City,Propulsion,Propulsion,Engineer,186000,236000,12,5,-,186000,236000,https://example.com/jobs/comet-4,1,FL
